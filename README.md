@@ -1,3 +1,13 @@
+## Overview
+
+Demostrate how work with Forms in react.js.
+We can find 2 components that demostrate how work with forms in react using 2 libraries:
+1. React-Hook-Form
+2. React-Bootstrap
+
+
+## Getting started
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
